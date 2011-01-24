@@ -23,4 +23,8 @@ enum (enumeration) - перечисление
 build process - процесс сборки
 keyword - ключевое слово
 infinite loop - бесконечный цикл
+member variable - переменная класса, классовая переменная (в зависимости от контекста)
+web browser - веб-браузер
+widget - виджет
+to instantiate - создать экземпляр
 
