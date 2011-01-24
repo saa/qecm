@@ -1,25 +1,26 @@
-Qt in education - Qt в образовании
-binding - привязка
-inheritance - наследование
-parent - родитель (предок)
-child - потомок
-to implement - реализовать
-memory management - управление памятью
-leaking memory - утечка памяти
-connection - соединение
-compile-time - время компиляции
-run-time - время исполнения
-instance - экземпляр
-statement - оператор
-class declaration - объявление класса
-meta data - метаинформация
-to allocate memory - выделить память
-to explicitly free memory - явно освободить память
-scope - область видимости
-to emit signal - испустить сигнал
-to return value - возвращать значение
-callbacks - функции обратного вызова
-enum (enumeration) - перечисление
-build process - процесс сборки
-keyword - ключевое слово
-infinite loop - бесконечный цикл
+Qt in education - Qt РІ РѕР±СЂР°Р·РѕРІР°РЅРёРё
+binding - РїСЂРёРІСЏР·РєР°
+inheritance - РЅР°СЃР»РµРґРѕРІР°РЅРёРµ
+parent - СЂРѕРґРёС‚РµР»СЊ (РїСЂРµРґРѕРє)
+child - РїРѕС‚РѕРјРѕРє
+to implement - СЂРµР°Р»РёР·РѕРІР°С‚СЊ
+memory management - СѓРїСЂР°РІР»РµРЅРёРµ РїР°РјСЏС‚СЊСЋ
+leaking memory - СѓС‚РµС‡РєР° РїР°РјСЏС‚Рё
+connection - СЃРѕРµРґРёРЅРµРЅРёРµ
+compile-time - РІСЂРµРјСЏ РєРѕРјРїРёР»СЏС†РёРё
+run-time - РІСЂРµРјСЏ РёСЃРїРѕР»РЅРµРЅРёСЏ
+instance - СЌРєР·РµРјРїР»СЏСЂ
+statement - РѕРїРµСЂР°С‚РѕСЂ
+class declaration - РѕР±СЉСЏРІР»РµРЅРёРµ РєР»Р°СЃСЃР°
+meta data - РјРµС‚Р°РёРЅС„РѕСЂРјР°С†РёСЏ
+to allocate memory - РІС‹РґРµР»РёС‚СЊ РїР°РјСЏС‚СЊ
+to explicitly free memory - СЏРІРЅРѕ РѕСЃРІРѕР±РѕРґРёС‚СЊ РїР°РјСЏС‚СЊ
+scope - РѕР±Р»Р°СЃС‚СЊ РІРёРґРёРјРѕСЃС‚Рё
+to emit signal - РёСЃРїСѓСЃС‚РёС‚СЊ СЃРёРіРЅР°Р»
+to return value - РІРѕР·РІСЂР°С‰Р°С‚СЊ Р·РЅР°С‡РµРЅРёРµ
+callbacks - С„СѓРЅРєС†РёРё РѕР±СЂР°С‚РЅРѕРіРѕ РІС‹Р·РѕРІР°
+enum (enumeration) - РїРµСЂРµС‡РёСЃР»РµРЅРёРµ
+build process - РїСЂРѕС†РµСЃСЃ СЃР±РѕСЂРєРё
+keyword - РєР»СЋС‡РµРІРѕРµ СЃР»РѕРІРѕ
+infinite loop - Р±РµСЃРєРѕРЅРµС‡РЅС‹Р№ С†РёРєР»
+
