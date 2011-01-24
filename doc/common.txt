@@ -1,0 +1,25 @@
+Qt in education - Qt в образовании
+binding - прив€зка
+inheritance - наследование
+parent - родитель (предок)
+child - потомок
+to implement - реализовать
+memory management - управление пам€тью
+leaking memory - утечка пам€ти
+connection - соединение
+compile-time - врем€ компил€ции
+run-time - врем€ исполнени€
+instance - экземпл€р
+statement - оператор
+class declaration - объ€вление класса
+meta data - метаинформаци€
+to allocate memory - выделить пам€ть
+to explicitly free memory - €вно освободить пам€ть
+scope - область видимости
+to emit signal - испустить сигнал
+to return value - возвращать значение
+callbacks - функции обратного вызова
+enum (enumeration) - перечисление
+build process - процесс сборки
+keyword - ключевое слово
+infinite loop - бесконечный цикл
