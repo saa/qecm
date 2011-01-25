@@ -1,4 +1,7 @@
 Qt in education - Qt в образовании
+Exercises lecture - лекция
+Lab - Лабораторная работа
+Solution tips - Советы по выполнению
 binding - привязка
 inheritance - наследование
 parent - родитель (предок)
@@ -27,4 +30,7 @@ member variable - переменная класса, классовая пере
 web browser - веб-браузер
 widget - виджет
 to instantiate - создать экземпляр
-
+hardcoded - жестко закодированный
+framework - фреймворк (http://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA)
+bleeding edge - новейший (http://forum.lingvo.ru/actualthread.aspx?tid=9557)
+installer - установщик
