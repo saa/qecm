@@ -15,7 +15,7 @@ run-time - время исполнения
 instance - экземпляр
 statement - оператор
 class declaration - объявление класса
-meta data - метаинформация
+metadata - метаданные
 to allocate memory - выделить память
 to explicitly free memory - явно освободить память
 scope - область видимости
