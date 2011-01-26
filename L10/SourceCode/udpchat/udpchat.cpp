@@ -30,7 +30,7 @@ UDPChat::UDPChat(QWidget *parent) :
 }
 
 void UDPChat::sendMessage() {
-    // enter your code here
+    // введите Ваш код здесь
 }
 
 void UDPChat::showMessage(const QString &nick, const QString &message) {
@@ -53,9 +53,9 @@ QPair<QString,QString> UDPChat::decodeMessage(const QByteArray &ba) const {
 }
 
 void UDPChat::startNetworking(int port) {
-    // enter your code here
+    // введите Ваш код здесь
 }
 
 void UDPChat::processPendingDatagrams() {
-    // enter your code here
+    // введите Ваш код здесь
 }

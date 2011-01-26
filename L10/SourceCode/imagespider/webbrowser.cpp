@@ -65,7 +65,7 @@ void WebBrowser::scanPageForImages() {
     QStringList images;
     imageList->setModel(model);
 
-    // enter your code here
+    // введите Ваш код сюда
 
     model->setStringList(images);
 }

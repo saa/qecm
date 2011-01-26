@@ -28,13 +28,13 @@ WebBrowser::WebBrowser(QWidget *parent) :
     QVBoxLayout *mainLayout = new QVBoxLayout(this);
     mainLayout->addLayout(toolsLayout);
 
-    // enter your code here
+    // введите Ваш код здесь
 }
 
 void WebBrowser::loadPage() {
-    // enter your code here
+    // введите Ваш код здесь
 }
 
 void WebBrowser::updateAddressBar(const QUrl &url) {
-    // enter your code here
+    // введите Ваш код здесь
 }
