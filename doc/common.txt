@@ -1,30 +1,40 @@
+Exercises lecture - лекция
+Lab - Лабораторная работа
 Qt in education - Qt в образовании
+Solution tips - Советы по выполнению
+
 binding - привязка
-inheritance - наследование
-parent - родитель (предок)
-child - потомок
-to implement - реализовать
-memory management - управление памятью
-leaking memory - утечка памяти
-connection - соединение
-compile-time - время компиляции
-run-time - время исполнения
-instance - экземпляр
-statement - оператор
-class declaration - объявление класса
-meta data - метаинформация
-to allocate memory - выделить память
-to explicitly free memory - явно освободить память
-scope - область видимости
-to emit signal - испустить сигнал
-to return value - возвращать значение
-callbacks - функции обратного вызова
-enum (enumeration) - перечисление
+bleeding edge - новейший (http://forum.lingvo.ru/actualthread.aspx?tid=9557)
 build process - процесс сборки
-keyword - ключевое слово
+callbacks - функции обратного вызова
+child - потомок
+class declaration - объявление класса
+compile-time - время компиляции
+connection - соединение
+delegate - делегат
+enum (enumeration) - перечисление
+framework - фреймворк (http://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA)
+hardcoded - жестко закодированный
 infinite loop - бесконечный цикл
+inheritance - наследование
+installer - установщик
+instance - экземпляр
+keyword - ключевое слово
+leaking memory - утечка памяти
 member variable - переменная класса, классовая переменная (в зависимости от контекста)
+memory management - управление памятью
+metadata - метаданные
+parent - родитель (предок)
+run-time - время исполнения
+scope - область видимости
+statement - оператор
 web browser - веб-браузер
 widget - виджет
-to instantiate - создать экземпляр
 
+to allocate memory - выделить память
+to emit signal - испустить сигнал
+to explicitly free memory - явно освободить память
+to implement - реализовать
+to instantiate - создать экземпляр
+to render - отрисовывать, формировать изображение (http://lingvo.abbyyonline.com/en/en-ru/render)
+to return value - возвращать значение
