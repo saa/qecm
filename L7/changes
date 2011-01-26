@@ -1,4 +1,9 @@
 L7 Exercises.odt
 ----------------
 
-- Fix: rotate fig.2 at 90 deg, original position is wrong
+- Page 3: Figure with rectangles rotated 90 degrees clockwise for the corresponding to QML code in this document.
+
+L7 Slides.odp
+-------------
+
+- Slide 34: "QGraphicsScene* scene = ..." changed by "QGraphicsScene *scene = ..." according to code style
