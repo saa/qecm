@@ -35,3 +35,4 @@ framework - фреймворк (http://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B5%
 bleeding edge - новейший (http://forum.lingvo.ru/actualthread.aspx?tid=9557)
 installer - установщик
 delegate - делегат
+to render - отрисовывать, формировать изображение (http://lingvo.abbyyonline.com/en/en-ru/render)
