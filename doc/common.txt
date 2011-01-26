@@ -11,6 +11,8 @@ child - потомок
 class declaration - объявление класса
 compile-time - время компиляции
 connection - соединение
+declaration - объявление
+definition - описание
 delegate - делегат
 enum (enumeration) - перечисление
 framework - фреймворк (http://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA)
