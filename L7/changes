@@ -6,4 +6,5 @@ L7 Exercises.odt
 L7 Slides.odp
 -------------
 
+- Slide 29: remove sidenote
 - Slide 34: "QGraphicsScene* scene = ..." changed by "QGraphicsScene *scene = ..." according to code style
