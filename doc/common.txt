@@ -5,6 +5,7 @@ Exercises lecture - лекция
 Lab - Лабораторная работа
 Qt in education - Qt в образовании
 Solution tips - Советы по выполнению
+Break - Перерыв (на отдельном слайде)
 
 anchor layout - компоновка по якорям
 binding - привязка
