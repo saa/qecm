@@ -1,3 +1,7 @@
 * На странице 4 предлагается уменьшить поля компоновки (layout margins) до нуля, но ничего не говорится о том, какую компоновку нужно исопльзовать (горизонтальную, вертикальную или какую-то еще).
 * QmainWindow -> QMainWindow (страница 6)
 * Qwidget -> QWidget (страница 6)
+* QmessageBox -> QMessageBox (страница 7)
+* "double free" при закрытии самого первого окна. Из-за того, что для всех окон используется атрибут Qt::WA_DeleteOnClose, но память под первое окно выделяется не динамически (см. main.cpp).
+* страница 7, последний пункт: "Ensure that only modified windows are closed" -> "Ensure that only _un_modified windows are closed"
+* страница 6: QtextEdit -> QTextEdit
