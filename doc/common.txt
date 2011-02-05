@@ -32,6 +32,7 @@ margins - поля
 member variable - переменная класса, классовая переменная (в зависимости от контекста)
 memory management - управление памятью
 metadata - метаданные
+method, function - функция
 parent - родитель (предок)
 run-time - время исполнения
 scope - область видимости
