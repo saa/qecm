@@ -17,7 +17,7 @@ class declaration - объявление класса
 compile-time - время компиляции
 connection - соединение
 declaration - объявление
-definition - описание
+definition - описание (определение)
 delegate - делегат
 directory - каталог
 enum (enumeration) - перечисление
